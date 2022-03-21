@@ -1,1 +1,3 @@
 # Band-App
+
+Group project
